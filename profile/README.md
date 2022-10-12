@@ -1,7 +1,7 @@
 # Cicada Solving
 
 ## Contribute
-Do you see something that is missing?  
+Do you see something that is missing or wrong?  
 Feel free to make an [issue](https://github.com/CicadaSolving/CicadaSolving/issues/new/choose) about it,  
 but first check if there are any [open issues](https://github.com/CicadaSolving/CicadaSolving/issues?q=is%3Aissue+is%3Aopen) about it allready.
 
